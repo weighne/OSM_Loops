@@ -10,6 +10,11 @@ finish = 41.75233338913655, -74.0980332614358
 
 ~ 1.23 miles
 ~ 1.97 km
+
+NOTES:
+
+1 DEGREE OF LAT/LON == 111km
+1 MINUTE IF LAT/LON == 1.85km
 '''
 
 def degrees_to_radians(degrees):

@@ -1,0 +1,5 @@
+https://betterprogramming.pub/how-to-get-open-street-and-map-data-using-python-2b777bf5af14
+https://wiki.openstreetmap.org/wiki/OSMPythonTools
+https://overpass-turbo.eu/
+https://www.maptools.com/tutorials/lat_lon/definitions
+https://maps.openrouteservice.org/#/
